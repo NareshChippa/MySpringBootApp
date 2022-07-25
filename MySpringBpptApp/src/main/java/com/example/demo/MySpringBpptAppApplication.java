@@ -21,7 +21,6 @@ public class MySpringBpptAppApplication {
 		SpringApplication.run(MySpringBpptAppApplication.class, args);
 		System.out.println("Hi I am here");
 		System.out.println("Added one more print statement");
-		System.out.println("Added one more print statement");
 		logger.info("Application main method finished");
 	}
 
