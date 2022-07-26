@@ -15,6 +15,7 @@ class MySpringBpptAppApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("test case executing");
+		logger.info("test case executing second logger statement");
 	assertEquals(true, true);
 	}
 
