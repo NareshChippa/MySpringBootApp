@@ -17,7 +17,7 @@ public class MySpringBpptAppApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("Application main method started");
+		logger.info("Application main method started")
 		SpringApplication.run(MySpringBpptAppApplication.class, args);
 		System.out.println("Hi I am here");
 		System.out.println("Added one more print statement");
